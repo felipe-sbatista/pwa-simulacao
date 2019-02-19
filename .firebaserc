@@ -1,0 +1,6 @@
+{
+  "projects": {
+    "default": "teste",
+    "-help": "pwa-unicap"
+  }
+}

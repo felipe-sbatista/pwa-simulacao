@@ -1,0 +1,16 @@
+{
+  "name": "teste",
+  "short_name": "teste",
+  "theme_color": "#1976d2",
+  "background_color": "#fafafa",
+  "display": "standalone",
+  "scope": "/",
+  "start_url": "/",
+  "icons": [
+    {
+      "src": "assets/icons/unicap2.png",
+      "sizes": "400x400",
+      "type": "image/png"
+    }
+  ]
+}
